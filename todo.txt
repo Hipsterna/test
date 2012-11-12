@@ -16,4 +16,4 @@ bajar
 
 - putty*
 - tortoisegit*
-- visual studio 2012
+- visual studio 2012*
