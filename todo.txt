@@ -1,0 +1,19 @@
+Invertigar
+
+- eventsourcing (opcional)
+- repository - cqsc
+- conector mysql version 5
+- ninject (Di o IC)
+- git*
+- mvc4*
+- login
+
+Entrar
+
+- redmine*
+
+bajar 
+
+- putty*
+- tortoisegit*
+- visual studio 2012
