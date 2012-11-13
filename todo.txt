@@ -1,17 +1,17 @@
 Invertigar
 
-- eventsourcing (opcional)
+- eventsourcing (opcional)*
 estructurar la aplicacion en diferentes estados.
 
-- repository - cqsc
+- repository - cqsc*
 un resitorio es una espacio en memoria en el que podemos
 tener una coleccion de datos los cuales podemos agregar, 
 borrar y actualizar
 
-- conector mysql version 5
+- conector mysql version 5*
 seguir instrucciones en la pagina d dev.mysql.com
 
-- ninject (Di o IC)
+- ninject (Di o IC)*
 hace el software mas facil de cambiar. es para reducir codigo.
 
 - git*
